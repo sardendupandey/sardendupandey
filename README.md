@@ -24,6 +24,7 @@ I focus on integrating security into the development lifecycle and building auto
 * OWASP ZAP
 * Burp Suite
 * SonarQube
+* Nessus
 
 **DevSecOps / Automation**
 
